@@ -12,6 +12,7 @@ public class day6 {
 
         System.out.println("Dairenin Alanı = " + alan);
         System.out.println("Dairenin Çevresi = " + cevre);
+        
 
     }
 }
